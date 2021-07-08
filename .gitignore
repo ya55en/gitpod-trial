@@ -1,3 +1,5 @@
+# .gitignore for erlang/elixir
+
 /_build
 /cover
 /deps
